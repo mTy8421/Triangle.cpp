@@ -1,5 +1,5 @@
 # Triangle with C++
 
-```
-แจกครับ
-```
+
+>free Triangle
+>I enjoy doing it.😂
